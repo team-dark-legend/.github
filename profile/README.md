@@ -2,7 +2,7 @@
 	<img alt="info" src="https://github.com/team-dark-legend/.github/blob/main/profile/assets/info-header.png?raw=true" />
 </p>
 
-**Undertale: Brave Faith** is a fangame based upon one of the many neutral endings the OG Game has. Follow Ethan, a teenager who gets trapped in the Underground by accident and will have to find a way back home alive, meeting friends and avoiding foes along the way and fight the dangerous EMPRESS of the Underground.
+**Undertale: Brave Faith** is a fangame based upon one of the many neutral endings of Undertale. Follow Ethan, a teenager who gets trapped in the Underground by accident who has to find his way back home, meeting friends and avoiding foes along his journey to face the dangerous EMPRESS of the Underground.
 
 <br></br>
 <p align="center">
@@ -11,10 +11,10 @@
 
 Not that long ago, a race of monsters lived below the surface peacefully, hoping for the day they'd see the sun.
 
-They had underground for centuries due to the BARRIER, a powerful spell that could only be broken by a creature with the powers of a GOD. To achieve that power, the king needed the power of seven human SOULS.
+They had been underground for centuries due to the BARRIER, a powerful spell that could only be broken by a creature with the powers of a GOD. To achieve that power, the king needed the power of seven human SOULS.
 
 Close to their goal, a ruthless murderer started causing fear and murder around the reign. 
-King ASGORE and many others had disappeared overnight accompanied by the human SOULS, causing the long-missing queen to come back. Enraged, UNDYNE, captain of the ROYAL GUARD, spearheaded a rebellion, that banished the QUEEN from the throne and put herself as the EMPRESS of the Underground.
+King ASGORE and many others had disappeared overnight accompanied by the human SOULS, causing the long-missing queen to come back. Enraged by the queen's new policy of non-hostility towards humans, UNDYNE, captain of the ROYAL GUARD, spearheaded a rebellion that banished the QUEEN from the throne and appointed herself as the EMPRESS of the Underground.
 <br></br>
 <br></br>
 
@@ -31,7 +31,7 @@ King ASGORE and many others had disappeared overnight accompanied by the human S
 - A new fresh cast of characters, some with ties to the characters we all love!
 - Both old and new areas of the Underground come back to be explored!
 - A similar battle system with a few tweaks to make it unique!
-- New secrets, both new and some originals that make a comeback!
+- Interesting secrets, new and old!
 - The ability to RUN!
 
 <br></br>
